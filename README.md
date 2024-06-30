@@ -7,13 +7,12 @@ Welcome to the Financial Advisory Platform project! This repository contains the
 The financial industry is evolving rapidly, with AI technologies offering new ways to enhance customer experiences, streamline operations, and drive efficiencies. The core idea of this project is to revolutionize financial advisory services by incorporating generative AI to provide tailored investment strategies, real-time advisory, and educational content. Our platform aims to deliver personalized financial guidance that adapts to changing market conditions and individual customer goals.
 
 # Proposed Solution
-
-Personalized Investment Strategies:
+<h3>Personalized Investment Strategies:</h3>
 <br>
 Utilize advanced AI algorithms to analyze customer financial data and market trends.
 Generate tailored investment strategies that align with individual customer goals and risk profiles.
-
-Real-Time Advisory Services:<br>
+<h3>Real-Time Advisory Services:</h3>
+<br>
 Provide real-time updates and alerts based on market changes and portfolio performance.
 Offer dynamic recommendations that adapt to evolving financial conditions.
 
