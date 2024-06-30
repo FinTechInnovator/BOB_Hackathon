@@ -49,8 +49,8 @@ Implement Azure Kubernetes Service (AKS) for container orchestration and scalabl
 Use Azure Security Center and Azure Monitor for comprehensive security monitoring and management.
 
 # Benefits:
-Personalization: Deliver highly personalized and relevant financial advice.
-Real-Time Adaptability: Provide up-to-date recommendations that adapt to market and user changes.
-Transparency: Enhance trust through clear, explainable AI-driven decisions.
-Accessibility: Support a diverse user base with multilingual capabilities and educational content.
-Scalability and Security: Ensure robust performance and data protection as the platform grows.
+<h5>Personalization:</h5> Deliver highly personalized and relevant financial advice.
+<h5>Real-Time Adaptability:</h5> Provide up-to-date recommendations that adapt to market and user changes.
+<h5>Transparency:</h5> Enhance trust through clear, explainable AI-driven decisions.
+<h5>Accessibility:</h5> Support a diverse user base with multilingual capabilities and educational content.
+<h5>Scalability and Security:</h5> Ensure robust performance and data protection as the platform grows.
