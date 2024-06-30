@@ -8,7 +8,7 @@ The financial industry is evolving rapidly, with AI technologies offering new wa
 
 # Proposed Solution
 
-<h3>Personalized Investment Strategies:</h3> <br>
+<h3>Personalized Investment Strategies:</h3> 
 Utilize advanced AI algorithms to analyze customer financial data and market trends.
 Generate tailored investment strategies that align with individual customer goals and risk profiles.
 
