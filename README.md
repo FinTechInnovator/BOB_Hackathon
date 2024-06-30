@@ -1,7 +1,7 @@
 # BOB_Hackathon
 
 # Introduction
-Welcome to the Financial Advisory Platform project! This repository contains the code and resources for developing a revolutionary financial advisory service using generative AI. Our goal is to provide personalized, data-driven financial advice to customers, leveraging the latest advancements in artificial intelligence to enhance user experience and trust.
+Welcome to the Financial Advisory Platform project! This repository tells about the resources for developing a revolutionary financial advisory service using generative AI. Our goal is to provide personalized, data-driven financial advice to customers, leveraging the latest advancements in artificial intelligence to enhance user experience and trust.
 
 # Idea
 The financial industry is evolving rapidly, with AI technologies offering new ways to enhance customer experiences, streamline operations, and drive efficiencies. The core idea of this project is to revolutionize financial advisory services by incorporating generative AI to provide tailored investment strategies, real-time advisory, and educational content. Our platform aims to deliver personalized financial guidance that adapts to changing market conditions and individual customer goals.
